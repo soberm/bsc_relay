@@ -1,0 +1,7 @@
+{
+  "ethereumHost": "",
+  "bscHost": "",
+  "privateKey": "",
+  "contractAddress": "",
+  "batchSize": 15
+}
